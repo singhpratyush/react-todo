@@ -23,3 +23,7 @@ yarn start
 ```bash
 yarn dev
 ```
+
+## Accessing
+
+Go to `http://127.0.0.1:8080` on a browser.
