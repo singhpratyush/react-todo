@@ -2,6 +2,8 @@
 
 A TODO manager written in `ReactJS`.
 
+[![Code Climate](https://codeclimate.com/github/singhpratyush/react-todo/badges/gpa.svg)](https://codeclimate.com/github/singhpratyush/react-todo)
+
 ## Dependencies
 
 * `Node`
